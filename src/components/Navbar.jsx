@@ -35,13 +35,13 @@ const Navbar = () => {
                 <div className='flex items-center gap-[20px]'>
                     <div className='flex items-center gap-[10px] px-2 py-2 rounded-lg hover:bg-[#dbdada] cursor-pointer'>
                     <div className='bg-none'>
-                    <img className='w-[30px] w-full bg-none' src={headphone} alt='' />
+                    <img className='w-[30px]  bg-none' src={headphone} alt='' />
                     </div>
                     <span className='text-[#848383]'>Help</span>
                     </div>
                     <div className='flex items-center gap-[10px] px-2 py-2 rounded-lg hover:bg-[#dbdada] cursor-pointer'>
                     <div className='bg-none'>
-                    <img className='w-[30px] w-full bg-none' src={user} alt='' />
+                    <img className='w-[30px]  bg-none' src={user} alt='' />
                     </div>
                     <span className='text-[#848383]'>Account</span>
                     </div>
