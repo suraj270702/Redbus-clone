@@ -1,3 +1,11 @@
 img {
     mix-blend-mode: multiply;
 }
+
+.home{
+    background-image: url('./assets/HomeBannerImg.svg');
+}
+
+.custom{
+    mix-blend-mode: multiply;
+}
