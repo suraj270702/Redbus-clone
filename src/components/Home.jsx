@@ -4,6 +4,7 @@ import right from '../assets/right-arrow.png'
 import calendar from '../assets/calendar.png'
 import tile from '../assets/tile-80X80.png'
 import copy from '../assets/copy.png'
+import promotion from '../assets/8edd6788-4bd6-4b21-aeee-ad4ca715f052.jpg'
 const Home = () => {
   return (
     <div className='home w-[100%]  h-[500px] px-6 py-6 relative'>
@@ -95,6 +96,7 @@ const Home = () => {
           </div>
 
         </div>
+        
     </div>
   )
 }

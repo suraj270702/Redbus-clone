@@ -1,6 +1,4 @@
-img {
-    mix-blend-mode: multiply;
-}
+
 
 .home{
     background-image: url('./assets/HomeBannerImg.svg');
@@ -8,4 +6,8 @@ img {
 
 .custom{
     mix-blend-mode: multiply;
+}
+
+.right-custom{
+    background-image: url('https://s3.rdbuz.com/web/images/homeV2/AboutUs/aboutUsImg.svg');
 }
