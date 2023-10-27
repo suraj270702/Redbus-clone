@@ -43,7 +43,7 @@ const Featured = () => {
               <button className='px-6 py-4 text-[16px] font-bold text-white bg-red-600 rounded-md mt-6'>Book Cab/Bus Rental</button>
             </div>
             <div className='right-custom w-[600px] relative '>
-                 <div className='absolute -left-[90px] top-[100px] rounded-md'>
+                 <div className='absolute -left-[110px] top-[100px] rounded-md'>
                  <img  src='https://s3.rdbuz.com/web/images/homeV2/AboutUs/rydePop.svg' alt='' />
                  </div>
             </div>

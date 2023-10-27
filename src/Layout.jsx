@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Home from './components/Home'
 import Promotion from './components/Promotion'
 import Featured from './components/Featured'
+import Application from './components/Application'
 
 const Layout = () => {
   return (
@@ -11,6 +12,7 @@ const Layout = () => {
     <Home />
     <Promotion />
     <Featured />
+    <Application />
     </>
   )
 }

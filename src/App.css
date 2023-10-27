@@ -11,3 +11,8 @@
 .right-custom{
     background-image: url('https://s3.rdbuz.com/web/images/homeV2/AboutUs/aboutUsImg.svg');
 }
+
+.application-custom{
+    background-image: url('https://s1.rdbuz.com/web/images/homeV2/appinstall/appInstallbg.svg');
+    background-repeat: no-repeat;
+}
