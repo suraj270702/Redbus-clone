@@ -16,3 +16,7 @@
     background-image: url('https://s1.rdbuz.com/web/images/homeV2/appinstall/appInstallbg.svg');
     background-repeat: no-repeat;
 }
+
+.bg-custom{
+    background-image: linear-gradient(to right, rgb(38, 72, 153), rgb(125, 70, 134));;
+}
