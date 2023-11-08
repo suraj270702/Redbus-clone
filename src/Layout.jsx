@@ -6,6 +6,7 @@ import Featured from './components/Featured'
 import Application from './components/Application'
 import Rating from './components/Rating'
 import Partners from './components/Partners'
+import Operators from './components/Operators'
 
 const Layout = () => {
   return (
@@ -17,6 +18,7 @@ const Layout = () => {
     <Application />
     <Rating />
     <Partners />
+    <Operators />
     </>
   )
 }

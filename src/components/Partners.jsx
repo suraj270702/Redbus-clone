@@ -44,6 +44,16 @@ const Partners = () => {
                     <h3 className="text-[20px] font-[300] mt-[20px] ">APSRTC</h3>
 
                 </div>
+                <div className="w-[150px] p-4 flex flex-col items-center">
+                    <img src="https://st.redbus.in/buslogos/country/ind/logo_group/10283.png" alt="" />
+                    <h3 className="text-[20px] font-[300] mt-[20px] ">APSRTC</h3>
+
+                </div>
+                <div className="w-[150px] p-4 flex flex-col items-center">
+                    <img src="https://st.redbus.in/buslogos/country/ind/logo_group/10283.png" alt="" />
+                    <h3 className="text-[20px] font-[300] mt-[20px] ">APSRTC</h3>
+
+                </div>
             </div>
 
         </div>
