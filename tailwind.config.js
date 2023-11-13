@@ -2,7 +2,11 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      underlineColor: {
+        'red': '#ff0000', // Replace with your desired red color
+      },
+    },
   },
   plugins: [],
 };

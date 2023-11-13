@@ -7,6 +7,7 @@ import Application from './components/Application'
 import Rating from './components/Rating'
 import Partners from './components/Partners'
 import Operators from './components/Operators'
+import FAQ from './components/FAQ'
 
 const Layout = () => {
   return (
@@ -19,6 +20,7 @@ const Layout = () => {
     <Rating />
     <Partners />
     <Operators />
+    <FAQ />
     </>
   )
 }
